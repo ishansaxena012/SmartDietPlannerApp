@@ -1,14 +1,14 @@
-# NutriBharat: AI-Powered Smart Diet Planner App
+# NutriBharat: Smart Diet Planner
 
 ## Overview
-NutriBharat is an AI-driven diet planning application designed to provide **personalized, culturally relevant, and nutritionally balanced** meal recommendations. It caters specifically to Indian users, considering regional food habits, dietary preferences, and health conditions. By leveraging machine learning algorithms, NutriBharat generates meal plans that align with user-specific health goals.
+NutriBharat is a diet planning application designed to provide **personalized, culturally relevant, and nutritionally balanced** meal recommendations. It caters specifically to Indian users, considering regional food habits, dietary preferences, and health conditions. By leveraging a machine learning-based approach, NutriBharat generates meal plans that align with user-specific health goals.
 
 ## Features
-- **Personalized Meal Plans:** AI-powered recommendations based on age, gender, activity level, and health objectives.
+- **Personalized Meal Plans:** Recommendations based on age, gender, activity level, and health objectives.
 - **Culturally Relevant Cuisine:** Incorporates diverse Indian regional food choices.
 - **Health-Focused Nutrition:** Supports balanced diets, including diabetic-friendly and specialized meal plans.
 - **Seamless User Experience:** Intuitive UI for easy navigation and meal tracking.
-- **AI-Powered Recommendations:** Uses the K-Nearest Neighbors (KNN) algorithm for optimal meal suggestions.
+- **Data-Driven Recommendations:** Uses the K-Nearest Neighbors (KNN) algorithm for optimal meal suggestions.
 
 ## Technologies Used
 ### **Frontend:**
@@ -35,7 +35,7 @@ NutriBharat is an AI-driven diet planning application designed to provide **pers
 ### **Steps to Run the Application:**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/NutriBharat.git
+   git clone https://github.com/ishansaxena012/SmartDietPlannerApp.git
    cd NutriBharat
    ```
 2. **Backend Setup:**
@@ -59,10 +59,16 @@ NutriBharat is an AI-driven diet planning application designed to provide **pers
 - **Cloud-based database for scalability**
 - **Cross-platform availability (iOS & Web)**
 
+## Contributors
+- **Soumyak Pransuman Behera** (23BCE10284)
+- **Ishan Saxena** (23BCE10303)
+- **Yash Beniwal** (23BCE10603)
+- **Eklavya Singh** (23BCE11266)
+- **Kavyansh Kapoor** (23BCE11762)
 
 ## License
 This project is licensed under the **MIT License**.
 
 ---
-**NutriBharat – Transforming Nutrition with AI!**
+**NutriBharat – Transforming Nutrition with Smart Technology!**
 
