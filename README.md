@@ -60,13 +60,12 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots  
 Here’s a glimpse of **NutriBharat in action**:  
-
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8aaadc9b-9c7e-4386-af52-f7728e818947" width="250" title="Home Screen">
-    <img src="https://github.com/user-attachments/assets/39c98a88-fa34-40e5-9fb4-1e57a8217381" width="250" title="Meal Plan">
-    <img src="https://github.com/user-attachments/assets/e995c8e4-9458-404b-8767-c3e169fe8fba" width="250" title="Diet Suggestions">
-    <img src="https://github.com/user-attachments/assets/aea9641e-a921-4bf2-a454-6a3873506499" width="250" title="Nutrition Breakdown">
-</p>  
+    <img src="https://github.com/user-attachments/assets/8aaadc9b-9c7e-4386-af52-f7728e818947" width="220" title="Home Screen">
+    <img src="https://github.com/user-attachments/assets/39c98a88-fa34-40e5-9fb4-1e57a8217381" width="220" title="Physical Profile">
+    <img src="https://github.com/user-attachments/assets/e995c8e4-9458-404b-8767-c3e169fe8fba" width="220" title="Profile Summary">
+    <img src="https://github.com/user-attachments/assets/aea9641e-a921-4bf2-a454-6a3873506499" width="220" title="Diet Recommendation">
+</p>
 
 ---
 
