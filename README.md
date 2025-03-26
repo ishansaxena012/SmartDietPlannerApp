@@ -46,6 +46,17 @@ NutriBharat is a diet planning application designed to provide **personalized, c
 3. **Frontend Setup:**
    - Open the Android project in **Android Studio**.
    - Build and run the application on an emulator or a physical device.
+   - 
+## Screenshots
+Here are some visuals of NutriBharat in action:
+
+<img src="https://github.com/user-attachments/assets/8aaadc9b-9c7e-4386-af52-f7728e818947" width="300">
+<img src="https://github.com/user-attachments/assets/39c98a88-fa34-40e5-9fb4-1e57a8217381" width="300">
+<img src="https://github.com/user-attachments/assets/e995c8e4-9458-404b-8767-c3e169fe8fba" width="300">
+<img src="https://github.com/user-attachments/assets/aea9641e-a921-4bf2-a454-6a3873506499" width="300">
+
+
+
 
 ## How It Works
 1. Users input personal details (age, gender, health conditions, dietary preferences, etc.).
@@ -59,16 +70,10 @@ NutriBharat is a diet planning application designed to provide **personalized, c
 - **Cloud-based database for scalability**
 - **Cross-platform availability (iOS & Web)**
 
-## Contributors
-- **Soumyak Pransuman Behera** (23BCE10284)
-- **Ishan Saxena** (23BCE10303)
-- **Yash Beniwal** (23BCE10603)
-- **Eklavya Singh** (23BCE11266)
-- **Kavyansh Kapoor** (23BCE11762)
+
 
 ## License
 This project is licensed under the **MIT License**.
 
 ---
 **NutriBharat – Transforming Nutrition with Smart Technology!**
-
