@@ -92,10 +92,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### 🔥 What’s Improved?  
-✔ **Better readability & structure**  
-✔ **More engaging formatting**  
-✔ **More detailed but concise explanations**  
-✔ **Aligned screenshots for a polished look**  
 
-Hope this helps! 🚀 Let me know if you need any **further refinements**! 😊
