@@ -1,6 +1,6 @@
 ---
 
-# 🍽️ NutriBharat: Smart Diet Planner  
+# 🍽️ NutriBharat: Smart Diet Planner
 
 ## 📌 Overview  
 NutriBharat is a smart diet planning application that provides **personalized, culturally relevant, and nutritionally balanced** meal recommendations. Designed for **Indian users**, it considers regional food habits, dietary preferences, and health conditions. The app leverages **machine learning (KNN algorithm)** to generate tailored meal plans that align with users' health goals.  
