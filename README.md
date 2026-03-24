@@ -8,7 +8,7 @@ NutriBharat is a smart diet planning application that provides **personalized, c
 ---
 
 ## 🌟 Features  
-✅ **Personalized Meal Plans** – Based on age, gender, activity level, and health objectives.  
+✅ **Personalized Meal Plans** – Based on age, gender, activity level , and health objectives.  
 ✅ **Culturally Relevant Cuisine** – Incorporates **diverse Indian regional foods**.  
 ✅ **Health-Focused Nutrition** – Supports balanced diets, including **diabetic-friendly and weight management** plans.  
 ✅ **Seamless User Experience** – Simple, intuitive UI for easy navigation and tracking.  
